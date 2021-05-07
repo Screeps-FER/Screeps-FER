@@ -20,6 +20,7 @@ git config --global user.email my.email@email.com
 
 ## Kloniranje
 S stranice repozotorija svog tima potrebno je nabaviti link na git repozotorij.
+
 ![](img/clone.png)
 
 S komandom:
@@ -30,6 +31,7 @@ git clone LINK_NA_REPO
 
 ##  Korištenje
 U VSC-u - u source control sekciji moguće je raditi s git repozotorijem.
+
 ![](img/sourceControllTab.png)
 
 No mnogo lakše je korsititi komande
